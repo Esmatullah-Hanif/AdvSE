@@ -1,0 +1,20 @@
+{
+  "name": "advse",
+  "version": "1.0.0",
+  "description": "Advanced Software Engineering | Design Patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esmatullah-Hanif/AdvSE.git"
+  },
+  "keywords": [],
+  "author": "Esmatullah Hanif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esmatullah-Hanif/AdvSE/issues"
+  },
+  "homepage": "https://github.com/Esmatullah-Hanif/AdvSE#readme"
+}
